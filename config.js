@@ -49,15 +49,15 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'twitch',
+      icon: 'twitch',
+      link: 'https://www.twitch.tv/',
     },
     {
       id: '5',
@@ -69,7 +69,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -91,14 +91,6 @@ const CONFIG = {
       {
         name: 'Python',
         link: 'https://www.w3schools.com/python/python_lists.asp',
-      },
-      {
-        name: '',
-        link: '',
-      },
-      {
-        name: '',
-        link: '',
       },
     ],
     secondList: [
