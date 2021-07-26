@@ -11,10 +11,10 @@
 
   /* Light theme  */
   --accent: #61b0f1; /* Hover color */
-  --bg: #f5f5f5; /* Background color */
-  --sbg: #e4e6e6; /* Cards color */
+  --bg: #bbb; /* Background color */
+  --sbg: #ccc; /* Cards color */
 
-  --fg: #3a3a3a; /* Foreground color */
+  --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Sceondary Foreground color */
 
   /* Image background  */
