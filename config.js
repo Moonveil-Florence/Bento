@@ -95,8 +95,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Discord',
+        link: 'https://discord.com/channels/@me',
       },
       {
         name: 'Figma',
